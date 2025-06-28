@@ -4,11 +4,11 @@ E-ticaret siteniz için Gemini yapay zeka destekli profesyonel aydınlatma hesap
 
 ## Özellikler
 
--Ampul ve LED panel hesaplamaları
--Oda tipine göre lümen hesaplama
--Akıllı ürün önerileri
--Responsive tasarım
--AI destekli ürün tavsiyeleri
+1. Ampul ve LED panel hesaplamaları
+2. Oda tipine göre lümen hesaplama
+3. Akıllı ürün önerileri
+4. Responsive tasarım
+5. AI destekli ürün tavsiyeleri
 
 ## Kurulum
 
