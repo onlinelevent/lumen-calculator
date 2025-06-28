@@ -1,0 +1,41 @@
+# Kullanım
+
+Aydınlatma türünü seçin (Ampul/LED Panel)
+Oda alanını ve türünü girin
+Hesapla butonuna tıklayın
+Önerilen ürünleri inceleyin
+
+# Geliştirme
+
+Modern JavaScript (ES6+)
+CSS Grid ve Flexbox
+Responsive tasarım
+API entegrasyonu
+
+# Lisans
+Bu proje açık kaynaklıdır.
+
+### 3. Yapılandırma örnek dosyası oluşturun
+- **"Create new file"** → `config.example.js`
+
+```javascript
+// config.example.js
+// Bu dosyayı config.js olarak kopyalayıp kendi bilgilerinizi ekleyin
+
+const API_CONFIG = {
+    // Backend API URL'niz
+    BASE_URL: 'YOUR_BACKEND_API_URL', 
+    
+    // API endpoints
+    CALCULATE_ENDPOINT: '/calculate-lumen',
+    AI_ADVICE_ENDPOINT: '/get-ai-response',
+    
+    // API anahtarınız (gerekirse)
+    API_KEY: 'YOUR_API_KEY'
+};
+
+// Kullanım:
+// 1. Bu dosyayı config.js olarak kopyalayın
+// 2. YOUR_BACKEND_API_URL kısmına kendi API URL'nizi yazın
+// 3. YOUR_API_KEY kısmına kendi API anahtarınızı yazın
+// 4. index.html dosyasında config.js'yi import edin
